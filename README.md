@@ -28,15 +28,6 @@ This is my **personal portfolio website**, built to showcase my projects, techni
 
 ---
 
-## 🚀 How to Use Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/AdithiyaaD/Portfolio.git
-cd Portfolio
-
-# Open index.html in your browser
-
 ![image](https://github.com/user-attachments/assets/656feb3b-45b0-4b7f-9369-bd19160d3790)
 ![image](https://github.com/user-attachments/assets/e14ca36d-2e6c-4cc9-9c70-b6c24dee4fc0)
 ![image](https://github.com/user-attachments/assets/5997592c-e03b-4416-9b78-08d57c57f2f8)
