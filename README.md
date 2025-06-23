@@ -1,5 +1,42 @@
-# Portfolio
-# I built my portfolio using HTML, CSS and JavaScript
+
+# 🌐 Personal Portfolio Website
+
+This is my **personal portfolio website**, built to showcase my projects, technical skills, achievements, and areas of interest in a single, elegant space. The site is fully responsive and deployed using GitHub Pages.
+
+🔗 **Live Site**: [Visit Portfolio](https://adithiyaad.github.io/Portfolio/)  
+📁 **Repository**: [GitHub Repo](https://github.com/AdithiyaaD/Portfolio)
+
+---
+
+## ✨ Features
+
+- 📄 Clean and minimal user interface
+- 📱 Responsive layout for mobile and desktop
+- 🛠️ Sections include:
+  - About Me
+  - Projects
+  - Skills
+  - Certifications
+  - Contact
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Deployment**: GitHub Pages
+
+---
+
+## 🚀 How to Use Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/AdithiyaaD/Portfolio.git
+cd Portfolio
+
+# Open index.html in your browser
+
 ![image](https://github.com/user-attachments/assets/656feb3b-45b0-4b7f-9369-bd19160d3790)
 ![image](https://github.com/user-attachments/assets/e14ca36d-2e6c-4cc9-9c70-b6c24dee4fc0)
 ![image](https://github.com/user-attachments/assets/5997592c-e03b-4416-9b78-08d57c57f2f8)
